@@ -4,7 +4,7 @@
 
 <img width="1329" alt="image" src="https://github.com/user-attachments/assets/7f0992bc-8f81-480f-938d-8f0dcce89a05" />
 
-# 🍪 산출물 eSnack 바로가기 🍪
+# 🍪 eSnack 산출물 바로가기 🍪
 ## Front-End
 - [User-Front](https://github.com/eSnack24/eSnack24.git)
 - [Admin-Front](https://github.com/eSnack24/eSnack24Admin.git)
