@@ -420,7 +420,7 @@ README
 
 
 
----
+
 
 ## 🛠 Tech Stacks
 
@@ -430,14 +430,14 @@ README
 | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> | <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/> | <img src="https://img.shields.io/badge/FCM-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/> | <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/> | <img src="https://img.shields.io/badge/Chroma DB-FC521F?style=for-the-badge&logo=ChromaDB&logoColor=white"/> |  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>  |
 
 
----
+
 
 ### 🖥 Front End
 | Framework | State Management | Styling | Language | CI/CD |
 |-----------|-------------------|---------|----------|-------|
 | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>  | <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Pinia-F97316?style=for-the-badge&logo=Pinia&logoColor=white"/> | <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/> | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>| <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/> |
 
----
+
 
 ### 📡 API
 | Name         | Description                       |
@@ -446,7 +446,7 @@ README
 | <img src="https://img.shields.io/badge/Data.go.kr-4479A1?style=for-the-badge&logo=Gov&logoColor=white"/> | Public Data Portal API         |
 | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/> | FastAPI Framework (Python) |
 
----
+
 
 ### 🛠 Development Tools
 | Tool       | Description                  |
@@ -457,7 +457,7 @@ README
 | <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> | Web Automation Tool            |
 | <img src="https://img.shields.io/badge/Jsoup-5A29E4?style=for-the-badge&logo=HTML5&logoColor=white"/> | HTML Parsing Library (Java)    |
 
----
+
 
 
 
