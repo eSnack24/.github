@@ -14,15 +14,20 @@
 - [User-Back](https://github.com/eSnack24/eSnack24API.git)
 - [Admin-Back](https://github.com/eSnack24/eSnack24AdminAPI.git)
 
-## [FastAPI](https://github.com/eSnack24/FastAPI.git) (상품의 벡터 이미지 검색을 사용하기 위한 FastAPI)
+## [FastAPI](https://github.com/eSnack24/FastAPI.git) 
+- 상품의 벡터 이미지 검색을 사용하기 위한 FastAPI
 
-## [LocaleAPI](https://github.com/eSnack24/LocaleAPI.git) (번역 API)
+## [LocaleAPI](https://github.com/eSnack24/LocaleAPI.git) 
+- 번역 API
 
-## [AllergyAPI](https://github.com/eSnack24/AllergyAPI.git) (공공데이터포털을 이용하여 상품 및 알러지정보를 가져오는 AllergyAPI)
+## [AllergyAPI](https://github.com/eSnack24/AllergyAPI.git) 
+- 공공데이터포털을 이용하여 상품 및 알러지정보를 가져오는 AllergyAPI
 
-## [CrawlingAPI](https://github.com/eSnack24/CrawlingAPI.git) (제조사의 상품데이터를 가져오는 CrawlingAPI)
+## [CrawlingAPI](https://github.com/eSnack24/CrawlingAPI.git) 
+- 제조사의 상품데이터를 가져오는 CrawlingAPI
 
-## [eSnack24UploadAPI](https://github.com/eSnack24/eSnack24UploadAPI.git) (Dokcer를 통해 nginx내부 상품이미지를 넣는 UploadAPI)
+## [eSnack24UploadAPI](https://github.com/eSnack24/eSnack24UploadAPI.git) 
+- Dokcer를 통해 nginx내부 상품이미지를 넣는 UploadAPI
 
 
 
