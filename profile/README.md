@@ -4,6 +4,10 @@
 
 <img width="1329" alt="image" src="https://github.com/user-attachments/assets/7f0992bc-8f81-480f-938d-8f0dcce89a05" />
 
+![eSnack24 발표자료 소개페이지 (1)](https://github.com/user-attachments/assets/b7a9bb55-f460-4929-a702-403d819775c2)
+
+
+
 # 🍪 eSnack 산출물 바로가기 🍪
 ## Front-End
 - [User-Front](https://github.com/eSnack24/eSnack24.git)
