@@ -1,6 +1,6 @@
 
 # eSnack24-org 
-## 반갑습니다! 웹 기반의 $\textbf{\textcolor{#F9BB00}{벡터 이미지 검색}}$을 활용한 사용자 $\textbf{\textcolor{red}{알레르기 경고}}$ 서비스 Repository 입니다.
+## 반갑습니다!  웹 기반의 $\textbf{\textcolor{#F9BB00}{벡터 이미지 검색}}$을 활용한 사용자 $\textbf{\textcolor{red}{알레르기 경고}}$ 서비스 Repository 입니다.
 
 <img width="1329" alt="image" src="https://github.com/user-attachments/assets/7f0992bc-8f81-480f-938d-8f0dcce89a05" />
 
